@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="793973a1-2d4f-40dd-bbcf-ca1df915bc81" name="Changes" comment="" />
+    <list default="true" id="793973a1-2d4f-40dd-bbcf-ca1df915bc81" name="Changes" comment="Actualizacion del README.md" />
     <list id="f9e8f15d-4324-4b6e-8994-68171cbd3529" name="New changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Implementacion de variables y metodos." />
-    <option name="LAST_COMMIT_MESSAGE" value="Implementacion de variables y metodos." />
+    <MESSAGE value="Archivos XML" />
+    <MESSAGE value="Actualizacion del README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Actualizacion del README.md" />
   </component>
 </project>
